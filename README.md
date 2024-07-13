@@ -3,7 +3,7 @@
 ## Overview
 This project proposes an innovative assistive technology that leverages the capabilities of the Internet of Things (IoT) and Artificial Intelligence (AI) to address the unique challenges faced by individuals with visual or hearing impairments. The system integrates advanced AI algorithms for sign language recognition and object detection with IoT devices, creating a comprehensive assistive tool that can benefit both blind and deaf users.
 
-[![Video Thumbnail](Argus-synopsis/img.jpg)](Argus-synopsis/demo.mp4)
+[![Video Thumbnail](Argus-synopsis/img.png)](Argus-synopsis/demo.mp4)
 
 ## Images
 ![img10](https://github.com/user-attachments/assets/77fb78c8-f053-462d-880e-bcd2f10de655)
