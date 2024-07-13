@@ -5,6 +5,7 @@ This project proposes an innovative assistive technology that leverages the capa
 
 [![Video Thumbnail](Argus-synopsis/img.png)](Argus-synopsis/demo.mp4)
 
+
 ## Images
 ![img10](https://github.com/user-attachments/assets/77fb78c8-f053-462d-880e-bcd2f10de655)
 ![img9](https://github.com/user-attachments/assets/23b43267-a945-4efd-8696-066f0828d2cd)
