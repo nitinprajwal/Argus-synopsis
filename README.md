@@ -20,8 +20,6 @@ This project proposes an innovative assistive technology that leverages the capa
 - Audio descriptions for the visually impaired
 - Sign language output for the hearing impaired
 
-## System Components
-
 ### Hardware
 - Raspberry Pi 3B
 - Camera module
